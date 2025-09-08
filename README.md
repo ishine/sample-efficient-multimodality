@@ -20,6 +20,7 @@
 </h4>
 </div>
 
+[![arxiv](https://img.shields.io/badge/arXiv-2509.04606-b31b1b.svg)](https://arxiv.org/abs/2509.04606)
 [![Dataset: CAPDELS](https://img.shields.io/badge/Dataset-CAPDELS-FFD21E.svg)](https://huggingface.co/datasets/ospanbatyr/capdels)
 
 ![Demo GIF](./figures/project1.gif)
